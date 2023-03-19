@@ -83,9 +83,6 @@ public class MakeChange {
 				}
 				isOpen = determineOpen(sc); //asks user if they want to continue
 			} 
-//			else {
-//				System.out.println("Invalid entry.");
-//			} // closes if/else
 
 		} while (isOpen); // end register loop
 
